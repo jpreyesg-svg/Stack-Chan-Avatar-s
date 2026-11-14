@@ -1,3 +1,7 @@
+# Stack-Chan Avatar-s, es una página web que se ejecuta en el navegador (Chrome o Edge). Conecta con el robot físico por Bluetooth o USB si lo tienes, pero también funciona solo como simulador en la pantalla. creado en base a Phyton para el robot superkawaii Stack-chan de código abierto, impulsado por JavaScript y construido con M5Stack
+
+
+
 # Stack-chan
 
 [![Build Stack-chan Firmware](https://github.com/stack-chan/stack-chan/actions/workflows/build.yml/badge.svg)](https://github.com/stack-chan/stack-chan/actions/workflows/build.yml)
