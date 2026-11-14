@@ -615,5 +615,16 @@
   "フラッシュ全体を消去すると、本体に保存した設定とインストール済みのMODを含むすべてのデータが失われます。この操作は取り消せません。": "Erasing the entire flash deletes all data on the device, including saved settings and installed MODs. This cannot be undone.",
   "全消去して書き込む": "Erase all and install",
   "フラッシュ全体の消去に必要なスタブが起動していません。書き込みを中止しました。": "The stub required to erase the entire flash is not running. Installation was stopped.",
-  "ファームウェアイメージが空のため、書き込みを中止しました。": "The firmware image is empty. Installation was stopped."
-}
+  "ファームウェアイメージが空のため、書き込みを中止しました。": "The firmware image is empty. Installation was stopped.",
+  "Avatar de IA": "AI Avatar",
+  "Cambia la personalidad del robot": "Change the robot personality",
+  "Elige la personalidad de tu Stack-chan.": "Choose your Stack-chan's personality.",
+  "Selecciona el avatar que usar Stack-chan.": "Select the avatar Stack-chan will use.",
+  "Disponibles": "Available",
+  "Vista previa": "Preview",
+  "Así se verá Stack-chan con el avatar seleccionado.": "How Stack-chan will look with the selected avatar.",
+  "Avatar aplicado": "Avatar applied",
+  "Aplicar avatar": "Apply avatar",
+  "Avatar aplicado a Stack-chan.": "Avatar applied to Stack-chan.",
+  "Selecciona un avatar y aplícalo.": "Select an avatar and apply it."
+}

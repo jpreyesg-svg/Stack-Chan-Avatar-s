@@ -64,6 +64,7 @@ export default defineConfig({
         tutorial: page('./editor/tutorial.html'),
         faceEditor: page('./face-editor/index.html'),
         avatarDsl: page('./avatar-dsl/index.html'),
+        avatar: page('./avatar/index.html'),
       },
     },
   },

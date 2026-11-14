@@ -7,6 +7,7 @@ import {
   ScanFace,
   SlidersHorizontal,
   Smile,
+  Sparkles,
   Store,
   type LucideIcon,
 } from 'lucide-react'
@@ -21,6 +22,7 @@ export type NavigationId =
   | 'editor'
   | 'face-editor'
   | 'avatar-dsl'
+  | 'avatar'
   | 'tutorial'
 
 export type NavigationItem = {
@@ -88,6 +90,13 @@ export const TOOL_NAVIGATION_ITEMS: readonly NavigationItem[] = [
     label: '顔 DSL エディタ',
     description: '顔コードを編集・検証・転送する',
     icon: Smile,
+  },
+  {
+    id: 'avatar',
+    href: 'avatar/',
+    label: 'Avatar de IA',
+    description: 'Cambia la personalidad del robot',
+    icon: Sparkles,
   },
 ]
 

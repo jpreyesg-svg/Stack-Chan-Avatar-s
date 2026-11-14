@@ -1,4 +1,4 @@
-import { ArrowRight, Blocks, Box, Cpu, ScanFace, SlidersHorizontal, Smile, Store, type LucideIcon } from 'lucide-react'
+import { ArrowRight, Blocks, Box, Cpu, ScanFace, SlidersHorizontal, Smile, Sparkles, Store, type LucideIcon } from 'lucide-react'
 import { useEffect } from 'react'
 
 import { AppShell } from '@/app/app-shell'
@@ -64,6 +64,12 @@ const tools: Tool[] = [
     label: '顔 DSL エディタ',
     description: 'C / WASM でプレビューして MOD を転送する',
     icon: Smile,
+  },
+  {
+    href: 'avatar/',
+    label: 'Avatar de IA',
+    description: 'Cambia la personalidad del robot',
+    icon: Sparkles,
   },
 ]
 

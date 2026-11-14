@@ -615,5 +615,16 @@
   "フラッシュ全体を消去すると、本体に保存した設定とインストール済みのMODを含むすべてのデータが失われます。この操作は取り消せません。": "擦除整个闪存将删除设备上的所有数据，包括已保存的设置和已安装的MOD。此操作无法撤销。",
   "全消去して書き込む": "全部擦除并烧录",
   "フラッシュ全体の消去に必要なスタブが起動していません。書き込みを中止しました。": "擦除整个闪存所需的存根程序未运行，已停止烧录。",
-  "ファームウェアイメージが空のため、書き込みを中止しました。": "固件镜像为空，已停止烧录。"
-}
+  "ファームウェアイメージが空のため、書き込みを中止しました。": "固件镜像为空，已停止烧录。",
+  "Avatar de IA": "AI团態",
+  "Cambia la personalidad del robot": "修改团体的性质",
+  "Elige la personalidad de tu Stack-chan.": "选择你的Stack-chan的性质",
+  "Selecciona el avatar que usar Stack-chan.": "选择Stack-chan使用的团態",
+  "Disponibles": "可用",
+  "Vista previa": "预览",
+  "Así se verá Stack-chan con el avatar seleccionado.": "选择团態后Stack-chan的表演方式",
+  "Avatar aplicado": "团態已应用",
+  "Aplicar avatar": "应用团態",
+  "Avatar aplicado a Stack-chan.": "团態已適用到Stack-chan",
+  "Selecciona un avatar y aplícalo.": "选择一个团態并应用"
+}
